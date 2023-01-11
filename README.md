@@ -1,5 +1,5 @@
 # Jogo da Velha
- Jogo da Velha desenvolvido em CSharp!
+ __*Jogo da Velha desenvolvido em CSharp!*__
  #
 ![image](https://user-images.githubusercontent.com/92181116/138358684-ed8ecb12-7e73-4a6c-8568-3cd1bb75929c.png)
 ![image](https://user-images.githubusercontent.com/92181116/138358803-02c1cdb8-8f8b-4c92-a6e0-983d77d16d54.png)
